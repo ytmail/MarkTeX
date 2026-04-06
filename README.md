@@ -21,9 +21,11 @@
 
 ---
 
-## 📸 Screenshot
+## 💡 Use Cases
 
-> *(Add a screenshot here)*
+- **Printing AI-Generated Content** — Seamlessly render Markdown and math equations copied from LLMs (like ChatGPT, Claude). Say goodbye to broken formats and raw LaTeX code when pasting into Word; instantly export AI outputs to perfectly typeset A4 PDFs.
+- **Academic & Scientific Writing** — Ideal for STEM students and researchers to quickly draft assignment reports, paper snippets, or lab notes that contain heavy mathematical notations.
+- **Technical Note-Taking** — Runs entirely locally. A lightweight, distraction-free desktop editor for capturing your thoughts, code, and math derivations on the fly.
 
 ---
 
